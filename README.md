@@ -66,9 +66,13 @@ Start the frontend server
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/2326dbf2-9a46-4ee4-b508-e9d733a86423)
+![image](https://github.com/user-attachments/assets/3b3b3f9c-d978-47a9-9c71-c2d734c57a07)
 
-![image](https://github.com/user-attachments/assets/257a693e-c5d6-41c9-a115-3f9f2e9fae90)
+![image](https://github.com/user-attachments/assets/25adbd6c-eb7a-4879-82ed-8a0a4fd20610)
+
+
+
+
 
 ## Lessons Learned
 
